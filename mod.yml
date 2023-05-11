@@ -1,0 +1,12 @@
+title: Kangaroo Jack Saying a Bunch of Bullshit
+originalAuthor: Kangdide
+description:
+assets:
+- name: remastered\obj\P_EX330.a.us\voice\battle\us\peterpan
+  method: copy
+  source:
+  - name: peterpan.scd
+- name: remastered\obj\P_EX330.a.us\se\obj\se595
+  method: copy
+  source:
+  - name: se595.scd
